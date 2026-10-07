@@ -1,4 +1,3 @@
 # git-clone-lab
 git lab program
-cd~/desktop
-
+today is wednesdaty
